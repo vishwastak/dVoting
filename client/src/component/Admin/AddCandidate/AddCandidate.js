@@ -194,7 +194,7 @@ export function loadAdded(candidates) {
           className="container-item"
           style={{
             display: "block",
-            backgroundColor: "#DDFFFF",
+            backgroundColor: "#fef0ef",
           }}
         >
           {candidates.map(renderAdded)}
